@@ -25,6 +25,6 @@ To view a demo example, **[click here](https://simplfolio.netlify.com/)**\
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+-Nirmalya Saha   https://github.com/Nirmalya-Saha96
 
 
