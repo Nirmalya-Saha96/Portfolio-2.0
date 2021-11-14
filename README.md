@@ -10,7 +10,7 @@
 ⚡️ Optimized with Webpack\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://nirmalya-saha-portfolio.netlify.app/)**\
+To view a demo example, **[click here](https://pensive-jennings-f789e7.netlify.app/)**\
 
 
 
